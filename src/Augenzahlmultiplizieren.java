@@ -1,4 +1,4 @@
-package uebung_5_1;
+
 
 public class Augenzahlmultiplizieren {
 
